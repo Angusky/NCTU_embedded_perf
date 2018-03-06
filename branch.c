@@ -1,3 +1,4 @@
+#include"branch.h"
 void merge(int src1[], int src2[], int dst[], int n)
 {
     int i1 = 0, i2 = 0, id = 0;
